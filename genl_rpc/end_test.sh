@@ -1,0 +1,1 @@
+sudo rmmod genl_test

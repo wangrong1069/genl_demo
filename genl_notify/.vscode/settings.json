@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "netlink.h": "c",
+        "genl.h": "c",
+        "genl_test.h": "c",
+        "kernel.h": "c",
+        "typeinfo": "c"
+    },
+    "C_Cpp.default.systemIncludePath": [
+        "/usr/include", 
+        "/usr/include/libnl3", 
+        "/usr/include/linux", 
+        "/usr/lib/gcc/x86_64-linux-gnu/8/include", 
+        "/usr/include/glib-2.0", 
+        "/usr/lib/x86_64-linux-gnu/glib-2.0/include/"
+    ]
+
+}
